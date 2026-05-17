@@ -1,7 +1,8 @@
 # ⚡ FrekansLoL
 
-**FrekansLoL** is a modern League of Legends custom skin manager for Windows.  
-It provides a clean interface for managing skins, selecting champions, and using LTK Manager with a simpler setup flow.
+**FrekansLoL** is an unofficial Windows helper tool for the League of Legends custom skin community.
+
+It is built around the LTK workflow and focuses on making custom skin setup, skin pack management, champion selection, and common setup issues easier for beginners.
 
 > Not affiliated with Riot Games. FrekansLoL is a client-side tool and skins are visible only to the user.
 
@@ -84,12 +85,11 @@ Only download the app from the official GitHub Releases page.
 
 ---
 
-## ⚠️ Disclaimer
-
-FrekansLoL is an independent community project.  
-League of Legends and all related assets belong to Riot Games.  
-Use third-party tools at your own responsibility.
-
+> **Disclaimer:** FrekansLoL is not affiliated with Riot Games, League of Legends, LeagueToolkit, LTK Manager, or cslol-manager.
+>
+> FrekansLoL is an unofficial fan-made helper for the custom skin setup workflow. It is not a Riot skin unlocker, paid skin unlocker, or official skin service.
+>
+> All trademarks, game assets, and third-party components belong to their respective owners.
 ---
 
 ## ❤️ Support
@@ -101,8 +101,16 @@ If you like the project, you can support FrekansLoL by:
 - Sharing feedback
 - Supporting on Patreon
 
----
+## Credits & Third-Party Notices
 
+FrekansLoL is built around the League custom skin community workflow and may reference or interact with third-party tools/components.
+
+Credits / references:
+- LeagueToolkit / LTK Manager
+- cslol-manager / cslol-related tooling, if included or used
+- Riot Games / League of Legends assets, if referenced through public/static sources
+
+FrekansLoL does not claim ownership over Riot Games assets, LeagueToolkit, LTK Manager, cslol-manager, or cslol-dll.
 ## 📸 Screenshots
 
 Screenshots will be added soon.
